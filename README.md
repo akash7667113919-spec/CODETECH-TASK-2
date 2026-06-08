@@ -1,3 +1,8 @@
+NAME : AKASH MISHRA
+COMPANY: CODETECH IT SOLUTIONS 
+ID : CITS3576
+DOMAIN: C PROGRAMMING 
+DURATION: JUNE TO JULY
 
 Overview of Student Record Management System (C Programming Project)
 
